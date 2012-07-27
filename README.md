@@ -1,4 +1,12 @@
-fusioninventory_agent
-=====================
+Description
+===========
 
-fusioninventory_agent
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
