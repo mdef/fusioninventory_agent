@@ -1,5 +1,6 @@
 Description
 ===========
+Installs/Configures fusioninventory_agent
 
 Requirements
 ============
